@@ -4,7 +4,7 @@ Initial Function()
 {
   //Sample Code
 }
-
+added new code
 <<<<<<< HEAD
 feature1()
 {
